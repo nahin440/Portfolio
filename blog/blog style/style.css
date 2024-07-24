@@ -1,0 +1,44 @@
+
+
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 15%;
+    
+}
+
+.nav-ul2{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.nav-anchor{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: rgb(255, 231, 201);
+    padding: 30px 30px;
+    text-align: center;
+    padding: 15px 0px;
+    margin-bottom: 0px;
+    
+    
+  }
